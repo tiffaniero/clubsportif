@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="69e29397-0640-4499-b149-1be82f153b66" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/db_clubsportif.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/clubsportif/app/controllers/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/clubsportif/app/entities/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/clubsportif/app/exceptions/UserNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/clubsportif/app/repositories/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/clubsportif/app/services/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ui/src/app/footer/footer.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ui/src/app/footer/footer.component.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ui/src/app/footer/footer.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ui/src/app/footer/footer.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ui/src/app/gallery/gallery.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ui/src/app/gallery/gallery.component.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ui/src/app/gallery/gallery.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ui/src/app/gallery/gallery.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ui/src/app/home/home.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ui/src/app/home/home.component.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ui/src/app/home/home.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ui/src/app/home/home.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ui/src/app/logo/logo.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ui/src/app/logo/logo.component.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ui/src/app/logo/logo.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ui/src/app/logo/logo.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ui/src/app/model/user.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ui/src/app/navbar/navbar.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ui/src/app/navbar/navbar.component.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ui/src/app/navbar/navbar.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ui/src/app/navbar/navbar.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ui/src/app/test-form/test-form.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ui/src/app/test-form/test-form.component.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ui/src/app/test-form/test-form.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ui/src/app/test-form/test-form.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ui/src/assets/img/alteres.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ui/src/assets/img/logo/facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ui/src/assets/img/logo/instagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ui/src/assets/img/logo/tiktok.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ui/src/assets/img/logo/twitter.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ui" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ui/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ui/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ui/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ui/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ui/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ui/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ui/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ui/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ui/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ui/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ui/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ui/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ui/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ui/src/polyfills.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ui/src/polyfills.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ui/src/styles.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ui/src/styles.sass" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="com.haulmont.jpb.JpaRepository" />
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2J8WohpKaeJL962nga5rd077SfU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/_DEVELOP/WSBACK/WF3/clubsportif",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.33333334",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.clubsportif.app.exceptions" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\_DEVELOP\WSBACK\WF3\clubsportif\src\main" />
+      <recent name="D:\_DEVELOP\WSBACK\WF3\clubsportif\src\main\resources\templates" />
+      <recent name="D:\_DEVELOP\WSBACK\WF3\clubsportif\src\main\resources\templates\pages" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="liberica-17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.clubsportif.app.ClubsportifApplication" />
+      <module name="app" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69e29397-0640-4499-b149-1be82f153b66" name="Changes" comment="" />
+      <created>1671460370355</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671460370355</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
